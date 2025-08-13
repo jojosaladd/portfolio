@@ -1,33 +1,34 @@
-primary_name: "Your Name"
+primary_name: "Sujin (Joanna) Yoo"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Sujin (Joanna) Yoo"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Position 1 with logo
+- name: Master’s Student at Cornell University
 
 
-email: "your@email.com"
+email: "sy797@cornell.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: joannasujinyoo
+gscholar: nui3gxQAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: tbd
+#twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hello, I’m Sujin (Joanna). I am an apparel and technical designer with about a decade of industry experience, and I’m currently pursuing my master’s degree in Apparel Design at Cornell University. I am advised by Dr. Fatma Baytar (Apparel Design), with Dr. Steve Marschner (Computer Science) serving as my minor committee advisor.
+
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+      My research focuses on the intersection of <b>computer graphics</b> and <b>apparel design</b>, with an emphasis on <b>physical simulation</b> and <b>human–computer interaction (HCI)</b> applications. I am particularly interested in interactive shape manipulation for pattern making and technical design, as well as simulation methods that produce realistic garment rendering. Further details on my academic background and experience are available in my 
+  <a href="Your-CV-Link.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +36,23 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+- name: Cornell University
+  logo: /assets/images/badges/cornell.png
+  position: M.A. in Apparel Design with a Minor in Computer Science<br/>
+  date: Aug. 2024 - present
+- name: University of Southern California
+  logo: /assets/images/badges/usc.png
+  position: B.S. Computer Science and Business Administration
+  date: Aug. 2021 - May. 2024
+- name: Los Angeles Trade-Technical College
+  logo: /assets/images/badges/lattc.png
+  position: A.S. in Mathematics 
+
+  date: Jan. 2019 - May. 2021
+- name: Fashion Institute of Design & Merchandising
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: A.A. in Apparel Design
+  date: Mar. 2015 - May. 2017
 
 # experience:
 # - name: Peking University
@@ -53,9 +61,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: 1st Place – HCD Graduate Student Poster Contest, Cornell University
+  date: 2025
+- name: Recipient, Alan D. Mathios Research and Service Grant
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: President's Volunteer Service Award
+  date: 2023
