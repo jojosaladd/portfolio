@@ -31,9 +31,9 @@ short_bio: >-
 
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/mypic.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Cornell University
@@ -50,15 +50,25 @@ education:
 
   date: Jan. 2019 - May. 2021
 - name: Fashion Institute of Design & Merchandising
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/fidm.jpg
   position: A.A. in Apparel Design
   date: Mar. 2015 - May. 2017
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+  - name: Cornell University
+    logo: /assets/images/badges/cornell.png
+    #dept: Human-Centered Design, College of Human Ecology
+    roles:
+      - title: Research Assistant
+        date: Aug. 2024 – present
+        description: Cornell Fashion and Body Technology Lab
+      - title: Graduate Student Lecturer
+        date: Summer 2025
+        description: DEA 1140- Principles of Design Computing
+      - title: Teaching Assistant
+        date: Fall 2024, Spring 2025
+        description: FSAD 1450- Introduction to Fashion Design
+      - title: ☑️ See my <a href="/assets/Your-CV-Link.pdf" target="_blank" rel="noopener noreferrer">CV</a> for the full list.
 
 awards:
 - name: 1st Place – HCD Graduate Student Poster Contest, Cornell University
