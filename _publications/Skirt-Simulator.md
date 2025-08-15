@@ -2,7 +2,7 @@
 title:          "SkirtSim: Skirt/Seam Simulator"
 date:           3000-05-12 00:01:00 +0800
 selected:       true
-pub:            "#Cloth Simulation #Physical Simulation #Collision Detection #Seam Modeling #TaichiLang"
+pub:            "#Cloth Simulation #Physical Simulation #Seam Modeling"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 
