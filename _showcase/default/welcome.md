@@ -8,7 +8,7 @@ date: 2024-01-12 00:01:00 +0800
     <h2>Creative Work</h2>
     <hr />
     <p>
-         I have extensive industry experience in fashion. Here is a quick <a href="{{ '/assets/portfolio.pdf' | relative_url }}" target="_blank" rel="noopener">portfolio</a>
+         I have nearly ten years of experience in fashion! Here is a quick <a href="{{ '/assets/portfolio.pdf' | relative_url }}" target="_blank" rel="noopener">portfolio</a>
  of past work.  Some recent projects are covered by confidentiality agreements, so I cannot show everything here. If you would like more examples, please contact me directly.
     </p>
     <p>

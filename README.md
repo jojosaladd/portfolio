@@ -73,3 +73,8 @@ If you run into **any** issues while using this template, or have suggestions fo
 
 3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
 
+### TO DO
+- Update CV
+- Award - Oris Glisson please follow up
+- SewFlex 
+- Avatar thing -> WebGL
