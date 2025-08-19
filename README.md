@@ -76,5 +76,4 @@ If you run into **any** issues while using this template, or have suggestions fo
 ### TO DO
 - Update CV
 - Award - Oris Glisson please follow up
-- SewFlex 
 - Avatar thing -> WebGL
