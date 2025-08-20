@@ -2,7 +2,7 @@
 title:          "The Virtual Atelier: Interactive 3D Fashion Showroom"
 date:           2025-01-1 00:01:00 +0800
 selected:       true
-pub:            "#Virtual Showroom , #3D Graphics"
+pub:            "#Virtual Showroom #3D Graphics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
