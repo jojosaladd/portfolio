@@ -27,7 +27,7 @@ short_bio: >-
   </p>
   <p>
       My research focuses on the intersection of <b>computer graphics</b> and <b>apparel design</b>, with an emphasis on <b>physical simulation</b>, <b> interactive/dynamic gemeotry manuplation </b> and <b>human–computer interaction (HCI)</b> applications. I am particularly interested in interactive shape manipulation for pattern making and technical design, as well as simulation methods that produce realistic garment rendering. Further details on my academic background and experience are available in my 
-  <a href="Your-CV-Link.pdf" target="_blank" rel="noopener noreferrer">CV</a>. </p>
+  <a href="assets/CV_Yoo.pdf" target="_blank" rel="noopener noreferrer">CV</a>. </p>
   <p>Here is my current   <a href="assets/course.pdf" target="_blank" rel="noopener noreferrer">coursework plan</a> at Cornell, which demonstrates my rigorous interdisciplinary plan, including mathematics, computer science, and fashion.</p>
 
 
@@ -68,7 +68,7 @@ experience:
       - title: Teaching Assistant
         date: Fall 2024, Spring 2025
         description: FSAD 1450- Introduction to Fashion Design
-      - title: ☑️ See my <a href="/assets/Your-CV-Link.pdf" target="_blank" rel="noopener noreferrer">CV</a> for the full list.
+      - title: ☑️ See my <a href="assets/CV_Yoo.pdf" target="_blank" rel="noopener noreferrer">CV</a> for the full list.
 
 awards:
 # - name: Recipient, Oris Glisson Fellowship (International Textile & Apparel Association)
