@@ -12,7 +12,7 @@ date: 2024-01-12 00:01:00 +0800
  of past work.  Some recent projects are covered by confidentiality agreements, so I cannot show everything here. If you would like more examples, please contact me directly.
     </p>
     <p>
-          In my spare time, I run a  <a href="https://www.joannablumstudio.com" target="_blank" rel="noopener">sewing blog</a> with 6,000+ subscribers and 15k monthly views (fun fact: I built it with Ruby/Jekyll). I’m also a star seller on Etsy, though I haven’t had much time to maintain the shop lately.
+          In my spare time, I run a  <a href="https://www.joannablumstudio.com" target="_blank" rel="noopener">sewing blog</a> with 6,000+ subscribers and 25k monthly views (fun fact: I built it with Ruby/Jekyll). I’m also a star seller on Etsy, though I haven’t had much time to maintain the shop lately.
     </p>
     <p>
           I also make small games for fun. You can play my <a href="https://jojosalad.itch.io/seans-wild-ride" target="_blank" rel="noopener">first game</a> built with C# and Unity, and try a <a href="https://jojosaladd.github.io/vacuum_cleaner" target="_blank" rel="noopener">vacuum cleaning game</a> I built with React + TypeScript using the Anigraph framework.
