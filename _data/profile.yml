@@ -1,6 +1,6 @@
-primary_name: "Sujin (Joanna) Yoo"
+primary_name: "Sujin Joanna Yoo"
 secondary_name: ""
-navbar_name: "Sujin (Joanna) Yoo"
+navbar_name: "Sujin Joanna Yoo"
 
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -22,15 +22,24 @@ github: jojosaladd
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hello, I’m Sujin (Joanna). I am an apparel designer with about a decade of industry experience, and also a computer scientist. I’m currently pursuing my master’s degree in <b>Apparel Design</b> with a minor in <b>Computer Science</b> at Cornell University. I am advised by Dr. Fatma Baytar (Apparel Design), with Dr. Steve Marschner (Computer Science) serving as committee advisors.
+    Hello, I’m Sujin Joanna. I am an apparel designer with about a decade of industry experience, and also an comptuer engineer. I’m currently pursuing my master’s degree in <b>Apparel Design</b> with a minor in <b>Computer Science</b> at Cornell University. I am advised by Dr. Fatma Baytar (Apparel Design), with Dr. Steve Marschner (Computer Science) serving as committee advisors.
 
   </p>
   <p>
       My research focuses on the intersection of <b>computer graphics</b> and <b>apparel design</b>, with an emphasis on <b>physical simulation</b>, <b> interactive/dynamic gemeotry manuplation </b> and <b>human–computer interaction (HCI)</b> applications. I am particularly interested in interactive shape manipulation for pattern making and technical design, as well as simulation methods that produce realistic garment rendering. Further details on my academic background and experience are available in my 
   <a href="assets/CV_Yoo.pdf" target="_blank" rel="noopener noreferrer">CV</a>. </p>
   <p>Here is my current   <a href="assets/course.pdf" target="_blank" rel="noopener noreferrer">coursework plan</a> at Cornell, which demonstrates my rigorous interdisciplinary plan, including mathematics, computer science, and fashion.</p>
-
-
+  <p>
+    📢 As of February 2026, during my final semester at Cornell, I am based in Grenoble, France, where I am a research intern with the
+    <a href="https://team.inria.fr/craft/" target="_blank" rel="noopener noreferrer">CRAFT team</a>
+    at Inria, conducting research in computational garment modeling.
+  </p>
+  <p>
+    ❗️ Please note that my projects and publications may not be fully up to date.
+    For the most recent information, please see my
+    <a href="assets/CV_Yoo.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+    or feel free to contact me directly.
+  </p>
 portrait_url: /assets/images/photos/mypic.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
@@ -44,17 +53,20 @@ education:
   logo: /assets/images/badges/usc.png
   position: B.S. Computer Science and Business Administration
   date: Aug. 2021 - May. 2024
-- name: Los Angeles Trade-Technical College
-  logo: /assets/images/badges/lattc.png
-  position: A.S. in Mathematics 
 
-  date: Jan. 2019 - May. 2021
 - name: Fashion Institute of Design & Merchandising
   logo: /assets/images/badges/fidm.jpg
   position: A.A. in Apparel Design
   date: Mar. 2015 - May. 2017
 
 experience:
+  - name: Inria
+    logo: /assets/images/badges/inria.png
+    roles:
+      - title: Research Intern
+        date: Feb. 2026 – present
+        description: CRAFT team, Grenoble, France
+
   - name: Cornell University
     logo: /assets/images/badges/cornell.png
     #dept: Human-Centered Design, College of Human Ecology
