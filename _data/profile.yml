@@ -37,7 +37,7 @@ portrait_url: /assets/images/photos/mypic.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Brwon University
+- name: Brown University
   logo: /assets/images/badges/brown.jpg
   position: Ph.D. in Computer Science
   date: Sept. 2026 – Present
