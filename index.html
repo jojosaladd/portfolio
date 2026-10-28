@@ -21,10 +21,19 @@ navbar_title: Home
 {% endif %}
 
 {% if site.data.display.homepage.show_selected_publications %}
-    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-    {% 
-        include widgets/publication_card.html 
+    {% assign selected = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% assign pubs = selected | where: "category", "publication" %}
+    {% assign projects = selected | where_exp: "item", "item.category != 'publication'" %}
+    {%
+        include widgets/publication_card.html
         publications=pubs
-        title='<i class="fas fa-star"></i> Projects/Publications'
+        link='publications'
+        title='<i class="fas fa-book"></i> Publications'
+    %}
+    {%
+        include widgets/publication_card.html
+        publications=projects
+        link='projects'
+        title='<i class="fas fa-star"></i> Projects'
     %}
 {% endif %}

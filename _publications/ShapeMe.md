@@ -2,6 +2,7 @@
 title:          "ShapeMe: Custom 3D Avatars from Your Body Measurements, with OBJ Export"
 date:           3000-1-1 00:01:00 +0800
 selected:       true
+category:       project
 pub:            "#Anthropometric Modeling #Avatar Generator"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

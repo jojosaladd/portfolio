@@ -2,6 +2,7 @@
 title:          "The Virtual Atelier: Interactive 3D Fashion Showroom"
 date:           2025-01-1 00:01:00 +0800
 selected:       true
+category:       project
 pub:            "#Virtual Showroom #3D Graphics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

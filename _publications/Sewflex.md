@@ -2,6 +2,7 @@
 title:          "SewFlex: Smart Pattern Adjustment Tool"
 date:           2025-01-1 00:01:00 +0800
 selected:       true
+category:       project
 pub:            "#Parametric Pattern #Smart Pattern Adjustment #HCI "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
