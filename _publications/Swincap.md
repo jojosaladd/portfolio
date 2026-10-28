@@ -1,6 +1,6 @@
 ---
 title:          "Implementing 3D Body Scanning Methods for Inclusive Swim Cap Design and Sizing"
-date:           2999-01-21 00:01:00 +0800
+date:           3000-01-21 00:01:00 +0800
 selected:       true
 category:       publication
 pub:            "Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management(HCII 2025)"
